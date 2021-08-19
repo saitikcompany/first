@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+h1
+{
+    text-align: center;
+    color: black;
+}
+h2{
+    text-align: center;
+    color: teal;
+}
+p{
+    text-align: center;
+}
+button{
+ margin-left: 48%;
+ background-color: olivedrab;
+}
+.qwe{
+    margin-left: 43%;
+    color: mediumspringgreen;
+    font-size: x-large;
+}
